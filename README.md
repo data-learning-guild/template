@@ -3,7 +3,7 @@
 
 基本的には、GitHubのforkとPull Requestを使って作業します。
 
-- fork元: XXXが所持しているリポジトリ
+- fork元: data-learning-guildが所持しているリポジトリ
 - fork先: 自分のリポジトリ
 
 ## 開発の大まかな流れ
